@@ -1,0 +1,24 @@
+BaseTest 2018-05-12 16:07:41,131 com.fcrm.common.BaseTest.initExtentReport(BaseTest.java:59) Initializing Extent Report 
+BaseTest 2018-05-12 16:07:41,757 com.fcrm.common.BaseTest.initBrowser(BaseTest.java:82) Execution Started in the Browser:chrome 
+BaseTest 2018-05-12 16:07:41,777 com.fcrm.common.BaseTest.initApp(BaseTest.java:99) Application Opened 
+BaseTest 2018-05-12 16:07:56,166 com.fcrm.common.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+BaseTest 2018-05-12 16:08:20,477 com.fcrm.common.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+BaseTest 2018-05-12 16:08:20,485 com.fcrm.common.BaseTest.closeApp(BaseTest.java:127) Closing Application 
+BaseTest 2018-05-12 16:08:23,286 com.fcrm.common.BaseTest.closeBrowser(BaseTest.java:91) Execution Ended in the Browser:chrome 
+BaseTest 2018-05-12 16:08:23,348 com.fcrm.common.BaseTest.closeExtentReport(BaseTest.java:73) Closing Extent Report 
+BaseTest 2018-05-12 16:53:25,262 com.fcrm.common.BaseTest.initExtentReport(BaseTest.java:59) Initializing Extent Report 
+BaseTest 2018-05-12 16:53:26,549 com.fcrm.common.BaseTest.initBrowser(BaseTest.java:82) Execution Started in the Browser:chrome 
+BaseTest 2018-05-12 16:53:26,582 com.fcrm.common.BaseTest.initApp(BaseTest.java:99) Application Opened 
+BaseTest 2018-05-12 16:54:14,163 com.fcrm.common.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+BaseTest 2018-05-12 16:54:48,366 com.fcrm.common.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+BaseTest 2018-05-12 16:54:48,394 com.fcrm.common.BaseTest.closeApp(BaseTest.java:127) Closing Application 
+BaseTest 2018-05-12 16:54:50,720 com.fcrm.common.BaseTest.closeBrowser(BaseTest.java:91) Execution Ended in the Browser:chrome 
+BaseTest 2018-05-12 16:54:50,821 com.fcrm.common.BaseTest.closeExtentReport(BaseTest.java:73) Closing Extent Report 
+BaseTest 2018-05-13 10:58:33,568 com.fcrm.common.BaseTest.initExtentReport(BaseTest.java:59) Initializing Extent Report 
+BaseTest 2018-05-13 10:58:35,131 com.fcrm.common.BaseTest.initBrowser(BaseTest.java:82) Execution Started in the Browser:chrome 
+BaseTest 2018-05-13 10:58:35,193 com.fcrm.common.BaseTest.initApp(BaseTest.java:99) Application Opened 
+BaseTest 2018-05-13 10:59:01,700 com.fcrm.common.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+BaseTest 2018-05-13 10:59:33,170 com.fcrm.common.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+BaseTest 2018-05-13 10:59:33,188 com.fcrm.common.BaseTest.closeApp(BaseTest.java:127) Closing Application 
+BaseTest 2018-05-13 10:59:35,451 com.fcrm.common.BaseTest.closeBrowser(BaseTest.java:91) Execution Ended in the Browser:chrome 
+BaseTest 2018-05-13 10:59:35,624 com.fcrm.common.BaseTest.closeExtentReport(BaseTest.java:73) Closing Extent Report 

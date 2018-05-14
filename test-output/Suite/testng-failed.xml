@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.fcrm.scripts.VerifyLoginLogout">
+        <methods>
+          <include name="initBrowser"/>
+          <include name="testLoginLogout2"/>
+          <include name="postCondition"/>
+          <include name="closeExtentReport"/>
+          <include name="initApp"/>
+          <include name="closeBrowser"/>
+          <include name="preCondition"/>
+          <include name="initExtentReport"/>
+          <include name="closeApp"/>
+        </methods>
+      </class> <!-- com.fcrm.scripts.VerifyLoginLogout -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
