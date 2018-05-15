@@ -5,9 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import com.fcrm.utilities.Property;
-
+/*Author:Ashwin Kallingal*/
 public class BasePage 
 {
 	public Logger log=Logger.getLogger(this.getClass());
